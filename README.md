@@ -20,8 +20,8 @@ This API is an initiative and built by just one developer being for private and 
 | Babelite 🌐 | Server/Site | LTS: 2.0.2-D |
 | BabelCord 💬 | Discord Branch | LTS: 4.0.1 |
 | BabelRome 🌍 | Chrome Branch | In Build 🏗️ |
-| Cardial ❤️ | Discord Branch (to RPG games) | LTS: 1.0.0 |
-| Babelever ❌ | Server | Discontinued 🛑 |
+| Cardial ❤️ | Discord Branch (to RPG games) | LTS: 1.0.0 : Discontinued 🛑 |
+| Babelever ❌ | Server | 1.0.0 : Discontinued 🛑 |
 
 ## Access to source code 🔓
 
