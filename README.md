@@ -19,7 +19,7 @@ This API is an initiative and built by just one developer being for private and 
 |--------|-------------|---------|
 | Babelite 🌐 | Server/Site | LTS: 2.0.2-D |
 | BabelCord 💬 | Discord Branch | LTS: 4.0.1 |
-| BabelRome 🌍 | Chrome Branch | In Build 🏗️ |
+| Baberome 🌍 | Chrome Branch | LTS: 1.0.0 |
 | Cardial ❤️ | Discord Branch (to RPG games) | LTS: 1.0.0 : Discontinued 🛑 |
 | Babelever ❌ | Server | 1.0.0 : Discontinued 🛑 |
 
@@ -33,13 +33,16 @@ Access to the source code is free for anyone, except for Babelite and Babelcord,
 
 | Model | Status | max output |
 |--------|-------|------------|
-| gemini-2.0-flash-exp.js | Locked to Cardial branch 🔒 | 8192 tokens |
+| gemini-2.0-flash-exp.js | Global ✅ | 8192 tokens |
 | gemini-2.0-flash-thinking-exp-01-21.js | Global ✅ | 2000 tokens |
 | learnlm-1.5-pro-experimental.js | Global ✅ | 2000 tokens |
 
 ## Limitations ⚠️
 
 Its use is local only: Babelite host in `PORT: 1025` 🏠
+
+> [!WARNING]
+> Baberome only suported by babelite ^3.0.1 📏
 
 Discord Branchs (Cardial and BabelCord) 💬
 
