@@ -17,11 +17,11 @@ This API is an initiative and built by just one developer being for private and 
 
 ## Links 🔗
 
-* [Babelite]()
-* [Babelcord]()
-* [Baberome]()
-* [Babetorn]()
-* [Cardial]()
+* [Babelite](https://github.com/Eloazy/Babel-Program/blob/main/babelite.md)
+* [Babelcord](https://github.com/Eloazy/Babel-Program/blob/main/babelcord.md)
+* [Baberome](https://github.com/Eloazy/Babel-Program/blob/main/baberome.md)
+* [Babetorn](https://github.com/Eloazy/Babel-Program/blob/main/babetorn.md)
+* [Cardial](https://github.com/Eloazy/Babel-Program/blob/main/cardial.md)
 
 > [!NOTE]
 > The babel system is not available due to API limitations, only in future updates will it be allowed for use 🚧
