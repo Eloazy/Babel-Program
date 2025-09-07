@@ -12,7 +12,7 @@ It has some models included in it for you to use.
 
 ## Access to source code 🔓
 
-Its source code is currently public. 🔑
+Access to the code is free, you can access it by [clicking here](https://github.com/Eloazy/babelcord). 🔑
 
 ## Limitations ⚠️
 
